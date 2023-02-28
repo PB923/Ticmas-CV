@@ -1,0 +1,46 @@
+#der {
+	background-color: rgb(74,97,107);
+	height: 700px;
+	width: 350px;
+	text-align: center;
+}
+
+div img {
+	border-radius: 500px;
+	margin-top: 8px;
+	border: #f00 solid 3px;
+}
+
+.Separador {font-family: 'Tilt Warp', cursive}
+
+body {
+	margin: 6px;
+	background-color: #000;
+}
+
+#der p {font-family: 'Paytone One', sans-serif}
+#izq p {font-family: 'Paytone One', sans-serif}
+
+#der span {color: #f00}
+#izq span {color: #f00}
+
+#Porcentaje {border-radius: 10px}
+
+#izq1 {
+	height: 155px;
+	width: 500px;
+	background-color: rgb(127,127,127);
+	text-align: center;
+}
+
+#Flex {display: flex;}
+
+#izq {
+	height: 545px;
+	width: 500px;
+	background-color: #0ff;
+	text-align: center;
+
+	margin-top: 155px;
+	margin-left: -500px;
+}
